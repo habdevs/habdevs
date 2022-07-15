@@ -1,7 +1,8 @@
 [![MasterHead](https://media1.giphy.com/headers/shanebeam/myU7u7UKroOg.gif)](https://habdev.io)
+
 <h1 align="center">Hi 👋, I'm Anton Hramickih</h1>
 <h3 align="center">I am an aspiring frontend developer with a passion for knowledge</h3>
-
+[![Profile badge](https://www.codewars.com/users/habdevs/badges/large)](https://www.codewars.com/users/habdevs)
 ***
 
 - 🌱 I’m currently learning **Angular, React**
@@ -29,5 +30,6 @@
 <summary>Statistics</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habdevs&show_icons=true&locale=en" alt="habdevs" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habdevs&show_icons=true&locale=en&layout=compact" alt="habdevs" /></p>  
-<p><img align="left" src="https://komarev.com/ghpvc/?username=habdevs" alt="habdevs" /></p>  
+<p><img align="left" src="https://komarev.com/ghpvc/?username=habdevs" alt="habdevs" /></p> 
+<p><img align="left" src="https://www.codewars.com/users/habdevs/badges/large" alt="habdevs" /></p> 
 </details>
